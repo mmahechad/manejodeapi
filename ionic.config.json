@@ -1,5 +1,7 @@
 {
   "name": "manejodeapi",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
